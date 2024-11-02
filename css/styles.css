@@ -81,7 +81,7 @@ a {
   background: #4d5ae5;
   background-color: #404bbf;
 }
-.article-features {
+.highlight-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -89,7 +89,7 @@ a {
   color: #2e2f42;
 }
 
-.text-features {
+.{
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -98,7 +98,7 @@ a {
   background-color: #f4f4fd;
 }
 
-.title-team-class {
+.highlight-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -106,11 +106,11 @@ a {
   color: #2e2f42;
 }
 
-.list-guerrero-class {
+.highlight-title {
   background-color: #ffffff;
 }
 
-.list-guerrero-class {
+.highlight-description {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -119,13 +119,13 @@ a {
   color: #2e2f42;
 }
 
-.article-guerrero {
+.highlight-description {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
-.title-portfolio {
+.highlight-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -134,7 +134,7 @@ a {
   color: #2e2f42;
 }
 
-.list-payment {
+.highlight-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -142,7 +142,7 @@ a {
   color: #2e2f42;
 }
 
-.your-meditation {
+.highlight-description {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
