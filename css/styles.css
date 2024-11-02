@@ -67,18 +67,84 @@ a {
 .page-solutions {
   background: #2e2f42;
 }
-.logo-button {
-  background: #4d5ae5;
-  background-color: #404bbf;
-  cursor: pointer;
-}
 
-.logo-button {
+.logo-button-class {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
+}
+
+.logo-button:hover {
+  background: #4d5ae5;
+  background-color: #404bbf;
+}
+.article-features {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-features {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.page-team-class {
+  background-color: #f4f4fd;
+}
+
+.title-team-class {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.list-guerrero-class {
+  background-color: #ffffff;
+}
+
+.list-guerrero-class {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.article-guerrero {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.title-portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.list-payment {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.your-meditation {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .page-footer {
