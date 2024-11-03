@@ -101,7 +101,7 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section-list-list {
+.section-list-h3 {
   background-color: #ffffff;
 }
 .card-title {
@@ -135,7 +135,7 @@ a {
 .section-team-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.2;
+  letter-spacing: 0.02;
   color: #434455;
 }
 
