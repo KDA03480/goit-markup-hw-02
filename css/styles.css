@@ -83,16 +83,21 @@ a {
   background-color: #404bbf;
 }
 
-.features-list list {
+.list-item {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .section-team {
   background-color: #f4f4fd;
 }
+.list-item- {
+  background-color: #ffffff;
+}
+
 .section-title {
   font-size: 36px;
   line-height: 1.11;
@@ -102,17 +107,19 @@ a {
   color: #2e2f42;
 }
 
-.section-h3 {
+.section-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .section-team-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
 .section-page {
   font-weight: 500;
   font-size: 20px;
