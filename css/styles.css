@@ -64,11 +64,11 @@ a {
   color: #fff;
 }
 
-.page-solutions {
+.section-effective {
   background: #2e2f42;
 }
 
-.logo-button-class {
+.btn-banner {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -80,71 +80,6 @@ a {
 .logo-button:hover {
   background: #4d5ae5;
   background-color: #404bbf;
-}
-.highlight-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.{
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.page-team-class {
-  background-color: #f4f4fd;
-}
-
-.highlight-title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-
-.highlight-title {
-  background-color: #ffffff;
-}
-
-.highlight-description {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-
-.highlight-description {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-
-.highlight-title {
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-
-.highlight-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.highlight-description {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .page-footer {
