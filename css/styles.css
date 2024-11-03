@@ -68,7 +68,7 @@ a {
   background: #2e2f42;
 }
 
-.btn-banner {
+.active-button {
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
@@ -77,9 +77,64 @@ a {
   cursor: pointer;
 }
 
-.logo-button:hover {
+.active-button:hover,
+.active-button:focus {
   background: #4d5ae5;
   background-color: #404bbf;
+}
+
+.features-list list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-team {
+  background-color: #f4f4fd;
+}
+.section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.card-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.section-list list {
+  background-color: #ffffff;
+}
+
+.section-team-text {
+  line-height: 1.5;
+  letter-spacing: 0.2;
+}
+.section-portfolio {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-page {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-team-text {
+  line-height: 1.5;
+  letter-spacing: 0.2;
 }
 
 .page-footer {
