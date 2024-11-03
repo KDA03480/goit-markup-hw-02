@@ -101,7 +101,7 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section-list-h3 {
+.list-item {
   background-color: #ffffff;
 }
 .card-title {
@@ -114,13 +114,13 @@ a {
 
 .section-team-text {
   line-height: 1.5;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
 }
-.section-portfolio {
+.section-h4 {
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;
   text-align: center;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
@@ -135,8 +135,7 @@ a {
 .section-team-text {
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02;
-  color: #434455;
+  letter-spacing: 0.02em;
 }
 
 .page-footer {
